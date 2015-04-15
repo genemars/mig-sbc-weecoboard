@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Interface Domain="EmbeddedSystems.Weeco4mGPIO" AssemblyName="MIG-WeecoBoard" SupportedPlatform="Unix">
+    <Options>
+        <Option Name="InputPin" Value="7" />
+        <Option Name="PulsePerWatt" Value="1.0" />
+    </Options>
+</Interface>
